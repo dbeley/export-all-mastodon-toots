@@ -1,0 +1,5 @@
+.venv/
+Exports/
+config.ini
+tags
+*.secret
