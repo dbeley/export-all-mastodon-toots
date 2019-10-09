@@ -1,8 +1,6 @@
-# mastodon-scripts
+# export-all-mastodon-toots
 
-Some scripts using the mastodon api.
-
-The scripts need a valid config file with your mastodon account information in a config.ini file (see config_sample.ini for an example).
+The script need a valid config file with your mastodon account information in a config.ini file (see config_sample.ini for an example).
 
 - export_all_toots.py : Exports all toots from one or several users in xlsx format.
 
